@@ -1,5 +1,5 @@
 {
-  "name": "1_page_bootstrap-p",
+  "name": "bootstrap_p_foods",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "anu",
   "license": "ISC"
 }
 

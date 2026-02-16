@@ -9,7 +9,7 @@ body{
 }
 
 .main{
-  background: url(./image/food_home\ page.jpg);
+  background: url(./image/food_home-page.webp);
   background-size: cover;
   height: 100vh;
   background-position: 50% 50%;
@@ -74,7 +74,7 @@ body{
 /* --------------------------- */
 .sweets_foods{
   margin-top: 2%;
-  background: url(image/sweets\ foods.jpg);
+  background: url(image/sweets-foods.webp);
   background-size: cover;
   height: 100vh;
   background-position: 50% 50%;
@@ -197,7 +197,7 @@ body{
 
 .foods_element{
   position: relative;
-  background: url(image/foods_landscape.jpg);
+  background: url(image/foods_landscape.webp);
   background-size: cover;
   height: 20vh;
   display: flex;
